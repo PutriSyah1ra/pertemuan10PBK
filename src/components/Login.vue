@@ -1,6 +1,6 @@
 <template>
   <div class="login-container fade-in">
-    <h2>Masuk ke SkincareGlow</h2>
+    <h2>Masuk ke Chocolate</h2>
     <input v-model="username" type="text" placeholder="Username" />
     <input v-model="password" type="password" placeholder="Password" />
 
