@@ -1,0 +1,231 @@
+{
+  "cart": [],
+  "addresses": [
+    {
+      "id": "f003",
+      "nama": "1",
+      "telepon": "1",
+      "alamat": "1"
+    },
+    {
+      "id": "f022",
+      "nama": "1",
+      "telepon": "1",
+      "alamat": "1"
+    },
+    {
+      "id": "5b4c",
+      "nama": "2",
+      "telepon": "085265858443",
+      "alamat": "Jl. Dirgantara timur-sakinah iv"
+    },
+    {
+      "id": "6955",
+      "nama": "rq",
+      "telepon": "wq",
+      "alamat": "Jl. Dirgantara timur-sakinah iv"
+    },
+    {
+      "id": "6104",
+      "nama": "1",
+      "telepon": "085265858443",
+      "alamat": "Jl. Dirgantara timur-sakinah iv"
+    },
+    {
+      "id": "9ef5",
+      "nama": "1",
+      "telepon": "1",
+      "alamat": "Jl. Dirgantara timur-sakinah iv"
+    },
+    {
+      "id": "be64",
+      "nama": "1",
+      "telepon": "1",
+      "alamat": "1",
+      "produk": {
+        "id": 2,
+        "nama": "Milk Chocolate Caramel",
+        "deskripsi": "Coklat susu lembut berpadu dengan manisnya karamel lumer.",
+        "gambar": "https://images.unsplash.com/photo-1599785209707-28a8f2072e6a",
+        "harga": 42000,
+        "manfaat": [
+          "Memberi energi cepat",
+          "Rasa manisnya membantu relaksasi",
+          "Cocok sebagai camilan penambah semangat"
+        ]
+      }
+    },
+    {
+      "id": "1e6f",
+      "nama": "1",
+      "telepon": "1",
+      "alamat": "Jl. Dirgantara timur-sakinah iv",
+      "produk": []
+    },
+    {
+      "id": "de03",
+      "nama": "1",
+      "telepon": "1",
+      "alamat": "1",
+      "produk": {
+        "id": 2,
+        "nama": "Milk Chocolate Caramel",
+        "deskripsi": "Coklat susu lembut berpadu dengan manisnya karamel lumer.",
+        "gambar": "https://images.unsplash.com/photo-1599785209707-28a8f2072e6a",
+        "harga": 42000,
+        "manfaat": [
+          "Memberi energi cepat",
+          "Rasa manisnya membantu relaksasi",
+          "Cocok sebagai camilan penambah semangat"
+        ]
+      }
+    },
+    {
+      "id": "8675",
+      "nama": "1",
+      "telepon": "1",
+      "alamat": "Jl. Dirgantara timur-sakinah iv",
+      "produk": {
+        "id": 1,
+        "nama": "Dark Chocolate 70%",
+        "deskripsi": "Coklat hitam premium dengan rasa pahit khas dan antioksidan tinggi.",
+        "gambar": "https://images.unsplash.com/photo-1589712235271-60ae5fd83b32",
+        "harga": 35000,
+        "manfaat": [
+          "Mengandung antioksidan tinggi",
+          "Meningkatkan mood dan konsentrasi",
+          "Menurunkan tekanan darah"
+        ]
+      }
+    },
+    {
+      "id": "37d3",
+      "nama": "2",
+      "telepon": "085265858443",
+      "alamat": "Jl. Dirgantara timur-sakinah iv",
+      "produk": {
+        "id": 1,
+        "nama": "Dark Chocolate 70%",
+        "deskripsi": "Coklat hitam premium dengan rasa pahit khas dan antioksidan tinggi.",
+        "gambar": "https://images.unsplash.com/photo-1589712235271-60ae5fd83b32",
+        "harga": 35000,
+        "manfaat": [
+          "Mengandung antioksidan tinggi",
+          "Meningkatkan mood dan konsentrasi",
+          "Menurunkan tekanan darah"
+        ]
+      }
+    },
+    {
+      "id": "5937",
+      "nama": "2",
+      "telepon": "2",
+      "alamat": "Jl. Dirgantara timur-sakinah iv",
+      "produk": {
+        "id": 2,
+        "nama": "Milk Chocolate Caramel",
+        "deskripsi": "Coklat susu lembut berpadu dengan manisnya karamel lumer.",
+        "gambar": "https://shop.hersheys.com/dw/image/v2/BCVS_PRD/on/demandware.static/-/Sites-master-us/default/dwacd1cf5d/images/hi-res/PhotoE-240501_HC_0336_HersheyCaramelBar_VIS-1SIMP.jpeg?sw=700&sh=700&sm=fit",
+        "harga": 42000,
+        "manfaat": [
+          "Memberi energi cepat",
+          "Rasa manisnya membantu relaksasi",
+          "Cocok sebagai camilan penambah semangat"
+        ]
+      }
+    },
+    {
+      "id": "2465",
+      "nama": "2",
+      "telepon": "2",
+      "alamat": "Jl. Dirgantara timur-sakinah iv",
+      "produk": {
+        "id": 2,
+        "nama": "Milk Chocolate Caramel",
+        "deskripsi": "Coklat susu lembut berpadu dengan manisnya karamel lumer.",
+        "gambar": "https://shop.hersheys.com/dw/image/v2/BCVS_PRD/on/demandware.static/-/Sites-master-us/default/dwacd1cf5d/images/hi-res/PhotoE-240501_HC_0336_HersheyCaramelBar_VIS-1SIMP.jpeg?sw=700&sh=700&sm=fit",
+        "harga": 42000,
+        "manfaat": [
+          "Memberi energi cepat",
+          "Rasa manisnya membantu relaksasi",
+          "Cocok sebagai camilan penambah semangat"
+        ]
+      }
+    },
+    {
+      "id": "ecef",
+      "nama": "CACAAA",
+      "telepon": "085265858443",
+      "alamat": "Jl. Dirgantara timur-sakinah iv",
+      "produk": {
+        "id": 2,
+        "nama": "Milk Chocolate Caramel",
+        "deskripsi": "Coklat susu lembut berpadu dengan manisnya karamel lumer.",
+        "gambar": "https://shop.hersheys.com/dw/image/v2/BCVS_PRD/on/demandware.static/-/Sites-master-us/default/dwacd1cf5d/images/hi-res/PhotoE-240501_HC_0336_HersheyCaramelBar_VIS-1SIMP.jpeg?sw=700&sh=700&sm=fit",
+        "harga": 42000,
+        "manfaat": [
+          "Memberi energi cepat",
+          "Rasa manisnya membantu relaksasi",
+          "Cocok sebagai camilan penambah semangat"
+        ]
+      }
+    },
+    {
+      "id": "d7bf",
+      "nama": "2",
+      "telepon": "085265858443",
+      "alamat": "Jl. Dirgantara timur-sakinah iv",
+      "produk": {
+        "id": 2,
+        "nama": "Milk Chocolate Caramel",
+        "deskripsi": "Coklat susu lembut berpadu dengan manisnya karamel lumer.",
+        "gambar": "https://shop.hersheys.com/dw/image/v2/BCVS_PRD/on/demandware.static/-/Sites-master-us/default/dwacd1cf5d/images/hi-res/PhotoE-240501_HC_0336_HersheyCaramelBar_VIS-1SIMP.jpeg?sw=700&sh=700&sm=fit",
+        "harga": 42000,
+        "manfaat": [
+          "Memberi energi cepat",
+          "Rasa manisnya membantu relaksasi",
+          "Cocok sebagai camilan penambah semangat"
+        ]
+      }
+    },
+    {
+      "id": "100a",
+      "nama": "1",
+      "telepon": "1",
+      "alamat": "Jl. Dirgantara timur-sakinah iv",
+      "produk": {
+        "id": 2,
+        "nama": "Milk Chocolate Caramel",
+        "deskripsi": "Coklat susu lembut berpadu dengan manisnya karamel lumer.",
+        "gambar": "https://shop.hersheys.com/dw/image/v2/BCVS_PRD/on/demandware.static/-/Sites-master-us/default/dwacd1cf5d/images/hi-res/PhotoE-240501_HC_0336_HersheyCaramelBar_VIS-1SIMP.jpeg?sw=700&sh=700&sm=fit",
+        "harga": 42000,
+        "manfaat": [
+          "Memberi energi cepat",
+          "Rasa manisnya membantu relaksasi",
+          "Cocok sebagai camilan penambah semangat"
+        ]
+      }
+    }
+  ],
+  "transactions": [],
+  "riwayatDetail": [
+    {
+      "id": "a8ef",
+      "alamat": {
+        "nama": "1",
+        "telepon": "1",
+        "alamat": "Jl. Dirgantara timur-sakinah iv"
+      },
+      "produk": [
+        {
+          "id": 2,
+          "nama": "Milk Chocolate Caramel",
+          "harga": 42000,
+          "jumlah": 1
+        }
+      ],
+      "total": 42000,
+      "tanggal": "10/7/2025, 02.20.01"
+    }
+  ]
+}
